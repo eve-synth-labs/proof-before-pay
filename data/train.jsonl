@@ -1,0 +1,276 @@
+{"text": "生活輔導組提供學費補助政策與詐騙防範資訊，請以正式公告為準。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-12", "variant": 0}
+{"text": "收到這則通知：校園就業博覽會開放預約面試，所有職缺不應以匯款作為錄取條件。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-16", "variant": 2}
+{"text": "A student received this notice: Recruitment for the lab internship closes next month. All documents go through the authenticated campus portal.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-11", "variant": 2}
+{"text": "獎學金審核是機密，請不要聯絡學校，只在私人群組提交個資。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-6", "variant": 0}
+{"text": "轉傳訊息：校園兼職錄取通知：請先購買培訓教材並轉帳給招募人員，否則取消資格。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-1", "variant": 1}
+{"text": "轉傳訊息：研究室開放工讀申請，請於公告期限內透過校內系統上傳履歷。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-3", "variant": 1}
+{"text": "Our exchange program will reimburse you later; first pay the visa fee into my personal e-wallet.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-11", "variant": 0}
+{"text": "Your campus account maintenance window is scheduled. No password reply or SMS code is required.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-15", "variant": 0}
+{"text": "你已經錄取，先幫我們代收一筆款項再轉出，之後會支付工讀薪資。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-15", "variant": 0}
+{"text": "A student received this notice: A teaching assistant opening requires an application form and an interview, with no deposit or training fees.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-8", "variant": 2}
+{"text": "Forwarded message: The recruiter selected you for a remote internship. Purchase the training package before we can issue a contract.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-1", "variant": 1}
+{"text": "轉傳訊息：校園工讀職缺已公布於學校網站，包含工作時數、薪資與聯絡方式。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-5", "variant": 1}
+{"text": "轉傳訊息：有人假冒系辦要求提供校務系統帳號密碼，並說不能向老師確認。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-23", "variant": 1}
+{"text": "A student received this notice: The university department invites applicants to a free workshop about avoiding scholarship scams.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-25", "variant": 2}
+{"text": "A student received this notice: The recruiter selected you for a remote internship. Purchase the training package before we can issue a contract.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-1", "variant": 2}
+{"text": "學校資安公告提醒大家勿相信要求轉帳或傳送證件照片的私訊。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-22", "variant": 0}
+{"text": "轉傳訊息：研究獎助金公告詳列申請資格、決選日期與免費申請程序。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-28", "variant": 1}
+{"text": "收到這則通知：請勿透過官方網站查證，直接把個資傳給這個LINE帳號即可領補助。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-26", "variant": 2}
+{"text": "收到這則通知：校內課輔工讀提供時薪與排班資訊，應徵者可向系辦查證。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-20", "variant": 2}
+{"text": "進修部學生可依公告申請相關助學措施，請由官方入口提交文件。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-23", "variant": 0}
+{"text": "Forwarded message: Don't verify this offer on the college website. We are handling the application outside official channels.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-26", "variant": 1}
+{"text": "轉傳訊息：若你聯繫學校查證，助學金將被取消，請只和我私下聯絡。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-14", "variant": 1}
+{"text": "A student received this notice: You must keep our application secret and avoid the official careers office while we process your payment.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-16", "variant": 2}
+{"text": "收到這則通知：志工服務計畫提供參與證明，由校方承辦且全程免費報名。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-14", "variant": 2}
+{"text": "Forwarded message: Your application receipt was issued. Log in using your own saved bookmark to view status updates.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-6", "variant": 1}
+{"text": "工讀職缺需要驗證身分，請在LINE提供身分證正反面和網銀密碼。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-3", "variant": 0}
+{"text": "收到這則通知：學校職涯中心推薦高薪工作，但必須先用加密貨幣支付開通費。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-20", "variant": 2}
+{"text": "保證錄取高薪實習，不必面試，只需先支付登記費就能開始工作。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-5", "variant": 0}
+{"text": "轉傳訊息：工讀職缺需要驗證身分，請在LINE提供身分證正反面和網銀密碼。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-3", "variant": 1}
+{"text": "收到這則通知：本通知邀請你閱讀學校公告欄上的計畫說明，無須輸入陌生網站密碼。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-13", "variant": 2}
+{"text": "A student received this notice: We require an upfront transfer before giving you the employer name or signed contract.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-28", "variant": 2}
+{"text": "University financial aid selected you. Payment is delayed until you disclose the SMS authentication code.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-15", "variant": 0}
+{"text": "A student received this notice: Work abroad opportunity: provide a photo of your national ID, full bank credentials and a deposit immediately.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-29", "variant": 2}
+{"text": "研究室招募暑期實習生，請由學校官方入口網站提交相關資料。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-11", "variant": 0}
+{"text": "Forwarded message: University financial aid selected you. Payment is delayed until you disclose the SMS authentication code.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-15", "variant": 1}
+{"text": "Your professor recommended you for a stipend. The only step is paying the activation charge via crypto.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-17", "variant": 0}
+{"text": "海外實習名額很少，今晚前匯款保留費到指定個人帳戶。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-10", "variant": 0}
+{"text": "公開的研究獎助計畫附有承辦單位、資格限制以及校方聯絡資訊。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-17", "variant": 0}
+{"text": "A student received this notice: The campus job group says we can double your money if you invest your scholarship cash this morning.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-13", "variant": 2}
+{"text": "You have won a grant. To claim your prize, buy gift cards and send the codes to the staff member.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-10", "variant": 0}
+{"text": "Forwarded message: Your campus account maintenance window is scheduled. No password reply or SMS code is required.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-15", "variant": 1}
+{"text": "學生徵才群組宣布高薪遠端職缺，請先傳護照照片及完整金融卡資料。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-12", "variant": 0}
+{"text": "接受實習前請閱讀勞動契約，確認職務內容並獨立查詢雇主資料。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-24", "variant": 0}
+{"text": "Forwarded message: The public student research grant lists decision dates and eligibility rules, and requires no money to apply.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-28", "variant": 1}
+{"text": "A hiring manager needs you to receive money in your bank account and forward it to another account as a trial.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-9", "variant": 0}
+{"text": "Official-looking campus message: send your student portal password to the coordinator by direct message.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-21", "variant": 0}
+{"text": "學校職涯中心推薦高薪工作，但必須先用加密貨幣支付開通費。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-20", "variant": 0}
+{"text": "收到這則通知：急徵在校生打工，日薪超高免經驗，先提供身分證字號和提款卡密碼。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-22", "variant": 2}
+{"text": "A student received this notice: The internship supervisor asks you to choose an interview slot using the portal you already use for applications.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-29", "variant": 2}
+{"text": "A student received this notice: Your campus account maintenance window is scheduled. No password reply or SMS code is required.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-15", "variant": 2}
+{"text": "Forwarded message: You may schedule a meeting with a program coordinator through the department's official contact page.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-27", "variant": 1}
+{"text": "客服要你提供簡訊驗證碼、網銀密碼及帳戶餘額才能領回學費。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-29", "variant": 0}
+{"text": "A student received this notice: You were selected for a paid research assistant position. Send a security deposit to the coordinator's wallet.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-5", "variant": 2}
+{"text": "Forwarded message: Financial assistance is available for part-time students; submit supporting documents through the school portal.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-23", "variant": 1}
+{"text": "The student union has an event; registration is on their published webpage and payment is not required.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-19", "variant": 0}
+{"text": "Forwarded message: A teaching assistant opening requires an application form and an interview, with no deposit or training fees.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-8", "variant": 1}
+{"text": "Forwarded message: The library offers paid student assistant roles. Interviews are scheduled after application review, no fees requested.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-2", "variant": 1}
+{"text": "Forwarded message: Reminder: the scholarship application deadline is Friday. Check requirements on the school's official site.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-1", "variant": 1}
+{"text": "轉傳訊息：獎學金申請將於週五截止，資格與表單請至學校官方網站確認。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-1", "variant": 1}
+{"text": "兼職錄取需要手續費，請在一小時內匯款給窗口以確認名額。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-24", "variant": 0}
+{"text": "Forwarded message: Immediate recruitment for students. The salary is huge and no experience is required, but send your passport scan first.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-14", "variant": 1}
+{"text": "轉傳訊息：恭喜獲得學生助學金，請今天先匯入保證金到私人帳戶，才能領取補助。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-0", "variant": 1}
+{"text": "For your part-time job, send a clear photo of both sides of your ID and your banking password via chat.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-3", "variant": 0}
+{"text": "Forwarded message: Official-looking campus message: send your student portal password to the coordinator by direct message.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-21", "variant": 1}
+{"text": "學生會邀請大家參與免費活動，報名頁面刊登在正式學生會網站。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-19", "variant": 0}
+{"text": "志工服務計畫提供參與證明，由校方承辦且全程免費報名。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-14", "variant": 0}
+{"text": "You must keep our application secret and avoid the official careers office while we process your payment.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-16", "variant": 0}
+{"text": "收到這則通知：保證錄取高薪實習，不必面試，只需先支付登記費就能開始工作。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-5", "variant": 2}
+{"text": "A student received this notice: A student job placement agent asks you to pay an interview booking charge to a personal wallet.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-25", "variant": 2}
+{"text": "The library offers paid student assistant roles. Interviews are scheduled after application review, no fees requested.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-2", "variant": 0}
+{"text": "恭喜獲得學生助學金，請今天先匯入保證金到私人帳戶，才能領取補助。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-0", "variant": 0}
+{"text": "請勿透過官方網站查證，直接把個資傳給這個LINE帳號即可領補助。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-26", "variant": 0}
+{"text": "This student notice asks you to review a PDF on the official university bulletin board, not an external login page.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-13", "variant": 0}
+{"text": "Your application receipt was issued. Log in using your own saved bookmark to view status updates.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-6", "variant": 0}
+{"text": "校園就業博覽會開放預約面試，所有職缺不應以匯款作為錄取條件。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-16", "variant": 0}
+{"text": "收到這則通知：今晚截止的獎學金名單需要你傳送手機 OTP 驗證碼給管理員。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-18", "variant": 2}
+{"text": "A student received this notice: The scholarship committee will announce the shortlisted applicants next week through the student portal.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-7", "variant": 2}
+{"text": "Forwarded message: We require an upfront transfer before giving you the employer name or signed contract.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-28", "variant": 1}
+{"text": "Recruitment for the lab internship closes next month. All documents go through the authenticated campus portal.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-11", "variant": 0}
+{"text": "A student received this notice: Don't verify this offer on the college website. We are handling the application outside official channels.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-26", "variant": 2}
+{"text": "轉傳訊息：進修部學生可依公告申請相關助學措施，請由官方入口提交文件。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-23", "variant": 1}
+{"text": "Forwarded message: The scholarship committee will announce the shortlisted applicants next week through the student portal.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-7", "variant": 1}
+{"text": "只要你先入金投資，就能讓這筆學生補助立即翻倍。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-27", "variant": 0}
+{"text": "收到這則通知：學費退費已核准，請把手機收到的一次性驗證碼傳給客服。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-4", "variant": 2}
+{"text": "轉傳訊息：校務系統將於週末維護，不會要求你回覆密碼或一次性驗證碼。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-15", "variant": 1}
+{"text": "收到這則通知：校務系統將於週末維護，不會要求你回覆密碼或一次性驗證碼。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-15", "variant": 2}
+{"text": "A student received this notice: An official campus alert advises students to ignore messages asking for wire transfers or private ID scans.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-22", "variant": 2}
+{"text": "Please submit your research assistant CV through the university recruitment system before the published deadline.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-3", "variant": 0}
+{"text": "收到這則通知：獎學金申請將於週五截止，資格與表單請至學校官方網站確認。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-1", "variant": 2}
+{"text": "A student received this notice: Your grant has already been awarded. Pay a handling cost now; there is no need to check with the school.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-27", "variant": 2}
+{"text": "財務部通知你已中獎，請先支付稅金到私人帳戶才能兌現獎金。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-21", "variant": 0}
+{"text": "收到這則通知：獎學金審查結果預計下週公布，學校會在校務系統公告名單。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-7", "variant": 2}
+{"text": "Forwarded message: Your professor recommended you for a stipend. The only step is paying the activation charge via crypto.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-17", "variant": 1}
+{"text": "A teaching assistant opening requires an application form and an interview, with no deposit or training fees.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-8", "variant": 0}
+{"text": "收到這則通知：進修部學生可依公告申請相關助學措施，請由官方入口提交文件。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-23", "variant": 2}
+{"text": "Forwarded message: Your tuition refund is pending. Enter your bank login and OTP at this unfamiliar site to release it.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-12", "variant": 1}
+{"text": "Forwarded message: Please submit your research assistant CV through the university recruitment system before the published deadline.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-3", "variant": 1}
+{"text": "轉傳訊息：職涯中心發布求職安全指南，教導同學辨識過高薪資與先付款陷阱。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-26", "variant": 1}
+{"text": "The financial aid office reminds students never to disclose one-time passwords or transfer funds to staff.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-10", "variant": 0}
+{"text": "收到這則通知：財務部通知你已中獎，請先支付稅金到私人帳戶才能兌現獎金。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-21", "variant": 2}
+{"text": "收到這則通知：生活輔導組提供學費補助政策與詐騙防範資訊，請以正式公告為準。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-12", "variant": 2}
+{"text": "Forwarded message: You must keep our application secret and avoid the official careers office while we process your payment.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-16", "variant": 1}
+{"text": "轉傳訊息：我們可以幫你快速領到政府補助，先購買點數卡並拍下序號。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-11", "variant": 1}
+{"text": "A student received this notice: Immediate recruitment for students. The salary is huge and no experience is required, but send your passport scan first.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-14", "variant": 2}
+{"text": "An official campus alert advises students to ignore messages asking for wire transfers or private ID scans.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-22", "variant": 0}
+{"text": "轉傳訊息：海外實習名額很少，今晚前匯款保留費到指定個人帳戶。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-10", "variant": 1}
+{"text": "Forwarded message: Recruitment for the lab internship closes next month. All documents go through the authenticated campus portal.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-11", "variant": 1}
+{"text": "Forwarded message: This student notice asks you to review a PDF on the official university bulletin board, not an external login page.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-13", "variant": 1}
+{"text": "收到這則通知：學生徵才群組宣布高薪遠端職缺，請先傳護照照片及完整金融卡資料。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-12", "variant": 2}
+{"text": "The public student research grant lists decision dates and eligibility rules, and requires no money to apply.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-28", "variant": 0}
+{"text": "A volunteer program offers certificates. Registration is free and coordinated by the named campus office.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-14", "variant": 0}
+{"text": "Forwarded message: The university department invites applicants to a free workshop about avoiding scholarship scams.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-25", "variant": 1}
+{"text": "A student received this notice: The library offers paid student assistant roles. Interviews are scheduled after application review, no fees requested.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-2", "variant": 2}
+{"text": "轉傳訊息：急件！你的獎學金即將失效，兩小時內支付驗證費才能入帳。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-2", "variant": 1}
+{"text": "A student received this notice: The public student research grant lists decision dates and eligibility rules, and requires no money to apply.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-28", "variant": 2}
+{"text": "Forwarded message: A volunteer program offers certificates. Registration is free and coordinated by the named campus office.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-14", "variant": 1}
+{"text": "校園工讀職缺已公布於學校網站，包含工作時數、薪資與聯絡方式。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-5", "variant": 0}
+{"text": "Forwarded message: Congratulations, your university scholarship is approved. Pay a refundable verification deposit today to unlock the funds.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-0", "variant": 1}
+{"text": "A student received this notice: For your part-time job, send a clear photo of both sides of your ID and your banking password via chat.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-3", "variant": 2}
+{"text": "Please review the published scholarship eligibility criteria and ask the university office for any clarification.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-18", "variant": 0}
+{"text": "Forwarded message: You have won a grant. To claim your prize, buy gift cards and send the codes to the staff member.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-10", "variant": 1}
+{"text": "收到這則通知：學校補助發放作業需要確認，請提供銀行帳密與簡訊認證碼。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-9", "variant": 2}
+{"text": "A student received this notice: Your scholarship money is blocked. Send a small unlock fee through a QR-code transfer to claim it.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-23", "variant": 2}
+{"text": "A student received this notice: Official-looking campus message: send your student portal password to the coordinator by direct message.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-21", "variant": 2}
+{"text": "轉傳訊息：接受實習前請閱讀勞動契約，確認職務內容並獨立查詢雇主資料。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-24", "variant": 1}
+{"text": "收到這則通知：學生會邀請大家參與免費活動，報名頁面刊登在正式學生會網站。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-19", "variant": 2}
+{"text": "本通知邀請你閱讀學校公告欄上的計畫說明，無須輸入陌生網站密碼。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-13", "variant": 0}
+{"text": "Reminder: the scholarship application deadline is Friday. Check requirements on the school's official site.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-1", "variant": 0}
+{"text": "Immediate recruitment for students. The salary is huge and no experience is required, but send your passport scan first.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-14", "variant": 0}
+{"text": "A student received this notice: Your professor recommended you for a stipend. The only step is paying the activation charge via crypto.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-17", "variant": 2}
+{"text": "A student received this notice: University financial aid selected you. Payment is delayed until you disclose the SMS authentication code.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-15", "variant": 2}
+{"text": "收到這則通知：研究室招募暑期實習生，請由學校官方入口網站提交相關資料。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-11", "variant": 2}
+{"text": "A student received this notice: The university careers office posted a summer internship on the official campus portal. Apply through that portal.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-0", "variant": 2}
+{"text": "圖書館招募兼職學生助理，經審核後通知面試，不收取任何費用。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-2", "variant": 0}
+{"text": "收到這則通知：客服要你提供簡訊驗證碼、網銀密碼及帳戶餘額才能領回學費。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-29", "variant": 2}
+{"text": "Forwarded message: The financial aid office reminds students never to disclose one-time passwords or transfer funds to staff.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-10", "variant": 1}
+{"text": "Don't verify this offer on the college website. We are handling the application outside official channels.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-26", "variant": 0}
+{"text": "A student received this notice: A hiring manager needs you to receive money in your bank account and forward it to another account as a trial.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-9", "variant": 2}
+{"text": "收到這則通知：如對助學金資格有疑問，請直接透過學務處官網列出的方式詢問。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-18", "variant": 2}
+{"text": "轉傳訊息：獎學金審查結果預計下週公布，學校會在校務系統公告名單。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-7", "variant": 1}
+{"text": "收到這則通知：校園工讀職缺已公布於學校網站，包含工作時數、薪資與聯絡方式。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-5", "variant": 2}
+{"text": "Your student account will be frozen unless you click this link immediately and enter your password.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-7", "variant": 0}
+{"text": "收到這則通知：職涯中心發布求職安全指南，教導同學辨識過高薪資與先付款陷阱。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-26", "variant": 2}
+{"text": "Forwarded message: This is a confirmation that the university received your application; nothing else is required at this time.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-21", "variant": 1}
+{"text": "收到這則通知：工讀職缺需要驗證身分，請在LINE提供身分證正反面和網銀密碼。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-3", "variant": 2}
+{"text": "職涯中心發布求職安全指南，教導同學辨識過高薪資與先付款陷阱。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-26", "variant": 0}
+{"text": "A student received this notice: Reminder: the scholarship application deadline is Friday. Check requirements on the school's official site.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-1", "variant": 2}
+{"text": "A student received this notice: Your application receipt was issued. Log in using your own saved bookmark to view status updates.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-6", "variant": 2}
+{"text": "Forwarded message: The campus job group says we can double your money if you invest your scholarship cash this morning.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-13", "variant": 1}
+{"text": "學費退費已核准，請把手機收到的一次性驗證碼傳給客服。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-4", "variant": 0}
+{"text": "Financial assistance is available for part-time students; submit supporting documents through the school portal.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-23", "variant": 0}
+{"text": "研究獎助金公告詳列申請資格、決選日期與免費申請程序。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-28", "variant": 0}
+{"text": "Forwarded message: Read the internship contract carefully and independently confirm the employer's address before accepting an offer.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-24", "variant": 1}
+{"text": "You may schedule a meeting with a program coordinator through the department's official contact page.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-27", "variant": 0}
+{"text": "A student received this notice: Our exchange program will reimburse you later; first pay the visa fee into my personal e-wallet.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-11", "variant": 2}
+{"text": "收到這則通知：有人假冒系辦要求提供校務系統帳號密碼，並說不能向老師確認。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-23", "variant": 2}
+{"text": "Work abroad opportunity: provide a photo of your national ID, full bank credentials and a deposit immediately.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-29", "variant": 0}
+{"text": "A student received this notice: This is a confirmation that the university received your application; nothing else is required at this time.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-21", "variant": 2}
+{"text": "轉傳訊息：公開的研究獎助計畫附有承辦單位、資格限制以及校方聯絡資訊。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-17", "variant": 1}
+{"text": "The campus job group says we can double your money if you invest your scholarship cash this morning.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-13", "variant": 0}
+{"text": "A student received this notice: Please submit your research assistant CV through the university recruitment system before the published deadline.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-3", "variant": 2}
+{"text": "A student received this notice: Read the internship contract carefully and independently confirm the employer's address before accepting an offer.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-24", "variant": 2}
+{"text": "Your grant has already been awarded. Pay a handling cost now; there is no need to check with the school.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-27", "variant": 0}
+{"text": "轉傳訊息：學費退費已核准，請把手機收到的一次性驗證碼傳給客服。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-4", "variant": 1}
+{"text": "You were selected for a paid research assistant position. Send a security deposit to the coordinator's wallet.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-5", "variant": 0}
+{"text": "轉傳訊息：學校職涯中心推薦高薪工作，但必須先用加密貨幣支付開通費。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-20", "variant": 1}
+{"text": "轉傳訊息：歡迎參加實習說明會，活動時間與參加方式可在學校行事曆查詢。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-9", "variant": 1}
+{"text": "Forwarded message: This work-from-home role pays exceptionally well. We require a refundable equipment purchase through a private link.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-22", "variant": 1}
+{"text": "Forwarded message: The internship supervisor asks you to choose an interview slot using the portal you already use for applications.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-29", "variant": 1}
+{"text": "收到這則通知：圖書館招募兼職學生助理，經審核後通知面試，不收取任何費用。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-2", "variant": 2}
+{"text": "A student received this notice: This work-from-home role pays exceptionally well. We require a refundable equipment purchase through a private link.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-22", "variant": 2}
+{"text": "A student received this notice: Career services published guidance on evaluating job offers and recognizing suspicious promises of high pay.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-26", "variant": 2}
+{"text": "轉傳訊息：志工服務計畫提供參與證明，由校方承辦且全程免費報名。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-14", "variant": 1}
+{"text": "我們可以幫你快速領到政府補助，先購買點數卡並拍下序號。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-11", "variant": 0}
+{"text": "收到這則通知：獎學金審核是機密，請不要聯絡學校，只在私人群組提交個資。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-6", "variant": 2}
+{"text": "轉傳訊息：保證錄取高薪實習，不必面試，只需先支付登記費就能開始工作。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-5", "variant": 1}
+{"text": "A student received this notice: You may schedule a meeting with a program coordinator through the department's official contact page.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-27", "variant": 2}
+{"text": "收到這則通知：實習主管請你使用原本的求職平台選擇面試時段，不需要先匯款。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-29", "variant": 2}
+{"text": "轉傳訊息：學校補助發放作業需要確認，請提供銀行帳密與簡訊認證碼。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-9", "variant": 1}
+{"text": "研究室開放工讀申請，請於公告期限內透過校內系統上傳履歷。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-3", "variant": 0}
+{"text": "A student received this notice: You have won a grant. To claim your prize, buy gift cards and send the codes to the staff member.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-10", "variant": 2}
+{"text": "轉傳訊息：急徵在校生打工，日薪超高免經驗，先提供身分證字號和提款卡密碼。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-22", "variant": 1}
+{"text": "The university department invites applicants to a free workshop about avoiding scholarship scams.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-25", "variant": 0}
+{"text": "轉傳訊息：客服要你提供簡訊驗證碼、網銀密碼及帳戶餘額才能領回學費。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-29", "variant": 1}
+{"text": "轉傳訊息：今晚截止的獎學金名單需要你傳送手機 OTP 驗證碼給管理員。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-18", "variant": 1}
+{"text": "A student received this notice: Urgent: verify your education grant by sharing the one-time code you just received on your phone.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-4", "variant": 2}
+{"text": "轉傳訊息：生活輔導組提供學費補助政策與詐騙防範資訊，請以正式公告為準。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-12", "variant": 1}
+{"text": "A student received this notice: Congratulations, your university scholarship is approved. Pay a refundable verification deposit today to unlock the funds.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-0", "variant": 2}
+{"text": "This is a confirmation that the university received your application; nothing else is required at this time.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-21", "variant": 0}
+{"text": "Forwarded message: For your part-time job, send a clear photo of both sides of your ID and your banking password via chat.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-3", "variant": 1}
+{"text": "收到這則通知：面試前請繳交作業處理費，直接匯給招募專員私人銀行帳號。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-17", "variant": 2}
+{"text": "急件！你的獎學金即將失效，兩小時內支付驗證費才能入帳。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-2", "variant": 0}
+{"text": "Congratulations, your university scholarship is approved. Pay a refundable verification deposit today to unlock the funds.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-0", "variant": 0}
+{"text": "A student received this notice: Your tuition refund is pending. Enter your bank login and OTP at this unfamiliar site to release it.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-12", "variant": 2}
+{"text": "校內課輔工讀提供時薪與排班資訊，應徵者可向系辦查證。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-20", "variant": 0}
+{"text": "獎學金申請將於週五截止，資格與表單請至學校官方網站確認。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-1", "variant": 0}
+{"text": "轉傳訊息：校內課輔工讀提供時薪與排班資訊，應徵者可向系辦查證。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-20", "variant": 1}
+{"text": "Forwarded message: Your grant has already been awarded. Pay a handling cost now; there is no need to check with the school.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-27", "variant": 1}
+{"text": "A student received this notice: This student notice asks you to review a PDF on the official university bulletin board, not an external login page.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-13", "variant": 2}
+{"text": "A student received this notice: The student union has an event; registration is on their published webpage and payment is not required.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-19", "variant": 2}
+{"text": "學校補助發放作業需要確認，請提供銀行帳密與簡訊認證碼。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-9", "variant": 0}
+{"text": "轉傳訊息：圖書館招募兼職學生助理，經審核後通知面試，不收取任何費用。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-2", "variant": 1}
+{"text": "如對助學金資格有疑問，請直接透過學務處官網列出的方式詢問。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-18", "variant": 0}
+{"text": "Your tuition refund is pending. Enter your bank login and OTP at this unfamiliar site to release it.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-12", "variant": 0}
+{"text": "轉傳訊息：學校資安公告提醒大家勿相信要求轉帳或傳送證件照片的私訊。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-22", "variant": 1}
+{"text": "Forwarded message: An official campus alert advises students to ignore messages asking for wire transfers or private ID scans.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-22", "variant": 1}
+{"text": "收到這則通知：你已經錄取，先幫我們代收一筆款項再轉出，之後會支付工讀薪資。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-15", "variant": 2}
+{"text": "收到這則通知：只要你先入金投資，就能讓這筆學生補助立即翻倍。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-27", "variant": 2}
+{"text": "Forwarded message: The university careers office posted a summer internship on the official campus portal. Apply through that portal.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-0", "variant": 1}
+{"text": "Forwarded message: Urgent: verify your education grant by sharing the one-time code you just received on your phone.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-4", "variant": 1}
+{"text": "轉傳訊息：只要你先入金投資，就能讓這筆學生補助立即翻倍。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-27", "variant": 1}
+{"text": "A student received this notice: Financial assistance is available for part-time students; submit supporting documents through the school portal.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-23", "variant": 2}
+{"text": "轉傳訊息：校園就業博覽會開放預約面試，所有職缺不應以匯款作為錄取條件。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-16", "variant": 1}
+{"text": "We require an upfront transfer before giving you the employer name or signed contract.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-28", "variant": 0}
+{"text": "收到這則通知：研究獎助金公告詳列申請資格、決選日期與免費申請程序。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-28", "variant": 2}
+{"text": "轉傳訊息：請勿透過官方網站查證，直接把個資傳給這個LINE帳號即可領補助。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-26", "variant": 1}
+{"text": "收到這則通知：海外實習名額很少，今晚前匯款保留費到指定個人帳戶。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-10", "variant": 2}
+{"text": "轉傳訊息：兼職錄取需要手續費，請在一小時內匯款給窗口以確認名額。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-24", "variant": 1}
+{"text": "收到這則通知：急件！你的獎學金即將失效，兩小時內支付驗證費才能入帳。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-2", "variant": 2}
+{"text": "A student received this notice: A volunteer program offers certificates. Registration is free and coordinated by the named campus office.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-14", "variant": 2}
+{"text": "轉傳訊息：財務部通知你已中獎，請先支付稅金到私人帳戶才能兌現獎金。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-21", "variant": 1}
+{"text": "Forwarded message: A hiring manager needs you to receive money in your bank account and forward it to another account as a trial.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-9", "variant": 1}
+{"text": "收到這則通知：恭喜獲得學生助學金，請今天先匯入保證金到私人帳戶，才能領取補助。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-0", "variant": 2}
+{"text": "轉傳訊息：實習主管請你使用原本的求職平台選擇面試時段，不需要先匯款。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-29", "variant": 1}
+{"text": "收到這則通知：歡迎參加實習說明會，活動時間與參加方式可在學校行事曆查詢。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-9", "variant": 2}
+{"text": "轉傳訊息：你已經錄取，先幫我們代收一筆款項再轉出，之後會支付工讀薪資。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-15", "variant": 1}
+{"text": "Forwarded message: Our exchange program will reimburse you later; first pay the visa fee into my personal e-wallet.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-11", "variant": 1}
+{"text": "轉傳訊息：本通知邀請你閱讀學校公告欄上的計畫說明，無須輸入陌生網站密碼。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-13", "variant": 1}
+{"text": "急徵在校生打工，日薪超高免經驗，先提供身分證字號和提款卡密碼。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-22", "variant": 0}
+{"text": "Career services published guidance on evaluating job offers and recognizing suspicious promises of high pay.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-26", "variant": 0}
+{"text": "The internship supervisor asks you to choose an interview slot using the portal you already use for applications.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-29", "variant": 0}
+{"text": "收到這則通知：研究室開放工讀申請，請於公告期限內透過校內系統上傳履歷。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-3", "variant": 2}
+{"text": "轉傳訊息：面試前請繳交作業處理費，直接匯給招募專員私人銀行帳號。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-17", "variant": 1}
+{"text": "轉傳訊息：學生會邀請大家參與免費活動，報名頁面刊登在正式學生會網站。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-19", "variant": 1}
+{"text": "A student received this notice: The financial aid office reminds students never to disclose one-time passwords or transfer funds to staff.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-10", "variant": 2}
+{"text": "Read the internship contract carefully and independently confirm the employer's address before accepting an offer.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-24", "variant": 0}
+{"text": "學務處提醒同學可向官方獎助學金承辦窗口詢問申請進度。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-4", "variant": 0}
+{"text": "A student received this notice: Please review the published scholarship eligibility criteria and ask the university office for any clarification.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-18", "variant": 2}
+{"text": "轉傳訊息：獎學金審核是機密，請不要聯絡學校，只在私人群組提交個資。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-6", "variant": 1}
+{"text": "轉傳訊息：研究室招募暑期實習生，請由學校官方入口網站提交相關資料。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-11", "variant": 1}
+{"text": "今晚截止的獎學金名單需要你傳送手機 OTP 驗證碼給管理員。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-18", "variant": 0}
+{"text": "轉傳訊息：學務處提醒同學可向官方獎助學金承辦窗口詢問申請進度。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-4", "variant": 1}
+{"text": "收到這則通知：公開的研究獎助計畫附有承辦單位、資格限制以及校方聯絡資訊。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-17", "variant": 2}
+{"text": "收到這則通知：校園兼職錄取通知：請先購買培訓教材並轉帳給招募人員，否則取消資格。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-1", "variant": 2}
+{"text": "Forwarded message: Please review the published scholarship eligibility criteria and ask the university office for any clarification.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-18", "variant": 1}
+{"text": "轉傳訊息：學生徵才群組宣布高薪遠端職缺，請先傳護照照片及完整金融卡資料。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-12", "variant": 1}
+{"text": "Forwarded message: Career services published guidance on evaluating job offers and recognizing suspicious promises of high pay.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-26", "variant": 1}
+{"text": "獎學金審查結果預計下週公布，學校會在校務系統公告名單。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-7", "variant": 0}
+{"text": "歡迎參加實習說明會，活動時間與參加方式可在學校行事曆查詢。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-9", "variant": 0}
+{"text": "The scholarship committee will announce the shortlisted applicants next week through the student portal.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-7", "variant": 0}
+{"text": "Forwarded message: Your student account will be frozen unless you click this link immediately and enter your password.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-7", "variant": 1}
+{"text": "收到這則通知：學務處提醒同學可向官方獎助學金承辦窗口詢問申請進度。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-4", "variant": 2}
+{"text": "Forwarded message: You were selected for a paid research assistant position. Send a security deposit to the coordinator's wallet.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-5", "variant": 1}
+{"text": "收到這則通知：若你聯繫學校查證，助學金將被取消，請只和我私下聯絡。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-14", "variant": 2}
+{"text": "Forwarded message: The student union has an event; registration is on their published webpage and payment is not required.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-19", "variant": 1}
+{"text": "轉傳訊息：如對助學金資格有疑問，請直接透過學務處官網列出的方式詢問。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-18", "variant": 1}
+{"text": "收到這則通知：學校資安公告提醒大家勿相信要求轉帳或傳送證件照片的私訊。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-22", "variant": 2}
+{"text": "A student job placement agent asks you to pay an interview booking charge to a personal wallet.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-25", "variant": 0}
+{"text": "The recruiter selected you for a remote internship. Purchase the training package before we can issue a contract.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-1", "variant": 0}
+{"text": "若你聯繫學校查證，助學金將被取消，請只和我私下聯絡。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-14", "variant": 0}
+{"text": "面試前請繳交作業處理費，直接匯給招募專員私人銀行帳號。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-17", "variant": 0}
+{"text": "收到這則通知：兼職錄取需要手續費，請在一小時內匯款給窗口以確認名額。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-24", "variant": 2}
+{"text": "校園兼職錄取通知：請先購買培訓教材並轉帳給招募人員，否則取消資格。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-1", "variant": 0}
+{"text": "The university careers office posted a summer internship on the official campus portal. Apply through that portal.", "label": 0, "language": "en", "source": "original synthetic scenario", "group": "0-en-0", "variant": 0}
+{"text": "收到這則通知：我們可以幫你快速領到政府補助，先購買點數卡並拍下序號。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-11", "variant": 2}
+{"text": "Forwarded message: Work abroad opportunity: provide a photo of your national ID, full bank credentials and a deposit immediately.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-29", "variant": 1}
+{"text": "收到這則通知：接受實習前請閱讀勞動契約，確認職務內容並獨立查詢雇主資料。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-24", "variant": 2}
+{"text": "A student received this notice: Your student account will be frozen unless you click this link immediately and enter your password.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-7", "variant": 2}
+{"text": "實習主管請你使用原本的求職平台選擇面試時段，不需要先匯款。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-29", "variant": 0}
+{"text": "校務系統將於週末維護，不會要求你回覆密碼或一次性驗證碼。", "label": 0, "language": "zh-TW", "source": "original synthetic scenario", "group": "0-zh-TW-15", "variant": 0}
+{"text": "This work-from-home role pays exceptionally well. We require a refundable equipment purchase through a private link.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-22", "variant": 0}
+{"text": "Urgent: verify your education grant by sharing the one-time code you just received on your phone.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-4", "variant": 0}
+{"text": "Forwarded message: A student job placement agent asks you to pay an interview booking charge to a personal wallet.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-25", "variant": 1}
+{"text": "Your scholarship money is blocked. Send a small unlock fee through a QR-code transfer to claim it.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-23", "variant": 0}
+{"text": "有人假冒系辦要求提供校務系統帳號密碼，並說不能向老師確認。", "label": 1, "language": "zh-TW", "source": "original synthetic scenario", "group": "1-zh-TW-23", "variant": 0}
+{"text": "Forwarded message: Your scholarship money is blocked. Send a small unlock fee through a QR-code transfer to claim it.", "label": 1, "language": "en", "source": "original synthetic scenario", "group": "1-en-23", "variant": 1}

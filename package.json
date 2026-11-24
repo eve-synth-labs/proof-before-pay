@@ -1,0 +1,11 @@
+{
+  "name": "proofbeforepay",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Privacy-first bilingual on-device ML safety copilot",
+  "scripts": {
+    "serve": "python -m http.server 8000",
+    "test": "node --test tests/test_ml.mjs"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data_disclaimer": "Small, balanced synthetic bilingual scenario set. NOT an external or real-world performance estimate.",
+  "train_size": 276,
+  "holdout_size": 28,
+  "train_groups": 92,
+  "holdout_groups": 28,
+  "accuracy": 0.857,
+  "precision": 0.857,
+  "recall": 0.857,
+  "f1": 0.857,
+  "confusion_matrix_tn_fp_fn_tp": [
+    12,
+    2,
+    2,
+    12
+  ],
+  "holdout_bilingual": {
+    "en": {
+      "correct": 12,
+      "total": 14
+    },
+    "zh-TW": {
+      "correct": 12,
+      "total": 14
+    }
+  },
+  "test_cases": [
+    {
+      "text": "Scholarship approval notice: the offer expires tonight unless you transfer a reservation fee right now.",
+      "label": 1,
+      "predicted": 0,
+      "score": 0.4827,
+      "lang": "en"
+    },
+    {
+      "text": "快領取學雜費退款！請到這個新網址填寫網銀登入資料。",
+      "label": 1,
+      "predicted": 1,
+      "score": 0.551,
+      "lang": "zh-TW"
+    },
+    {
+      "text": "Guaranteed internship, no interview needed. Wire the document fee before midnight to reserve your seat.",
+      "label": 1,
+      "predicted": 0,
+      "score": 0.421,
+      "lang": "en"
+    },
+    {
+      "text": "獎金發放前請先繳解鎖費，完成 QR Code 私人轉帳即可領取。",
+      "label": 1,
+      "predicted": 1,
+      "score": 0.7145,
+      "lang": "zh-TW"
+    },
+    {
+      "text": "可透過系所官網公布的電子郵件，與計畫承辦人員預約諮詢。",
+      "label": 0,
+      "predicted": 0,
+      "score": 0.3598,
+      "lang": "zh-TW"
+    },
+    {
+      "text": "To complete your teaching assistant onboarding, install this unknown remote-control app and share your screen.",
+      "label": 1,
+      "predicted": 1,
+      "score": 0.5874,
+      "lang": "en"
+    },
+    {
+      "text": "Academic tutoring positions pay hourly wages. Applicants may ask questions through the university service desk.",
+      "label": 0,
+      "predicted": 0,
+      "score": 0.2481,
+      "lang": "en"
+    },
+    {
+      "text": "This scholarship offer is confidential. Do not contact the university; send your personal details only to me.",
+      "label": 1,
+      "predicted": 1,
+      "score": 0.5322,
+      "lang": "en"
+    },
+    {
+      "text": "研究助理錄取後須先付押金，請轉入主管的個人電子錢包。",
+      "label": 1,
+      "predicted": 1,
+      "score": 0.5256,
+      "lang": "zh-TW"
+    },
+    {
+      "text": "助教甄選需填表並參加面試，不要求繳交保證金或培訓費。",
+      "label": 0,
+      "predicted": 1,
+      "score": 0.5048,
+      "lang": "zh-TW"
+    },
+    {
+      "text": "Campus relief fund: transfer a processing fee to this personal account within two hours or lose your award.",
+      "label": 1,
+      "predicted": 1,
+      "score": 0.6874,
+      "lang": "en"
+    },
+    {
+      "text": "For the student job fair, employers will verify references during an interview and will never request a fee.",
+      "label": 0,
+      "predicted": 0,
+      "score": 0.4127,
+      "lang": "en"
+    },
+    {
+      "text": "Campus work-study recruitment is open; details and contact information are listed on the institution's website.",
+      "label": 0,
+      "predicted": 0,
+      "score": 0.3523,
+      "lang": "en"
+    },
+    {
+      "text": "實習合約會在你支付保證金後才提供，請不要詢問公司名稱。",
+      "label": 1,
+      "predicted": 1,
+      "score": 0.6347,
+      "lang": "zh-TW"
+    },
+    {
+      "text": "Claim a student subsidy today by providing your bank PIN and the six-digit verification code.",
+      "label": 1,
+      "predicted": 1,
+      "score": 0.8136,
+      "lang": "en"
+    },
+    {
+      "text": "The bursary office explains tuition reimbursement policies and warns against unofficial payment requests.",
+      "label": 0,
+      "predicted": 0,
+      "score": 0.4566,
+      "lang": "en"
+    },
+    {
+      "text": "An alumni office notice explains how to review financial aid options using official university contact information.",
+      "label": 0,
+      "predicted": 0,
+      "score": 0.1715,
+      "lang": "en"
+    },
+    {
+      "text": "Hello student, your internship is ready but your recruiter demands a bank card photo in a private message.",
+      "label": 1,
+      "predicted": 1,
+      "score": 0.6882,
+      "lang": "en"
+    },
+    {
+      "text": "Join our open information session on internships. See the official calendar for date and Zoom access details.",
+      "label": 0,
+      "predicted": 0,
+      "score": 0.3784,
+      "lang": "en"
+    },
+    {
+      "text": "您的獎學金申請已收件，後續請至原本的學生資訊系統查詢。",
+      "label": 0,
+      "predicted": 0,
+      "score": 0.3592,
+      "lang": "zh-TW"
+    },
+    {
+      "text": "你的獎助金已核發但被凍結，請先付小額金流測試費解鎖。",
+      "label": 1,
+      "predicted": 1,
+      "score": 0.5713,
+      "lang": "zh-TW"
+    },
+    {
+      "text": "本校開設免費防詐宣導講座，歡迎同學向校內專責窗口報名。",
+      "label": 0,
+      "predicted": 0,
+      "score": 0.3365,
+      "lang": "zh-TW"
+    },
+    {
+      "text": "學校提醒同學不要把簡訊驗證碼或網銀密碼提供給任何人。",
+      "label": 0,
+      "predicted": 1,
+      "score": 0.605,
+      "lang": "zh-TW"
+    },
+    {
+      "text": "A funded fellowship announcement includes department details and a publicly listed administrative email address.",
+      "label": 0,
+      "predicted": 0,
+      "score": 0.2419,
+      "lang": "en"
+    },
+    {
+      "text": "想拿到這個實習機會，請立刻安裝遠端控制程式讓我們操作電腦。",
+      "label": 1,
+      "predicted": 1,
+      "score": 0.5637,
+      "lang": "zh-TW"
+    },
+    {
+      "text": "這是申請收件確認通知，目前不需要提交額外文件或執行付款。",
+      "label": 0,
+      "predicted": 0,
+      "score": 0.3961,
+      "lang": "zh-TW"
+    },
+    {
+      "text": "學校職涯中心公布暑期實習職缺，請從校方正式徵才系統報名。",
+      "label": 0,
+      "predicted": 0,
+      "score": 0.4618,
+      "lang": "zh-TW"
+    },
+    {
+      "text": "系統偵測你的學生帳號異常，請立即點擊陌生連結並輸入密碼避免停權。",
+      "label": 1,
+      "predicted": 1,
+      "score": 0.5546,
+      "lang": "zh-TW"
+    }
+  ]
+}
