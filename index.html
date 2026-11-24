@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0a1420">
+  <meta name="description" content="ProofBeforePay: privacy-first, bilingual on-device AI that helps students investigate suspicious scholarships, internships, and job offers.">
+  <title>ProofBeforePay — Know before you commit.</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#workbench">Skip to analyzer</a>
+  <div class="announcement"><span class="live-dot"></span> 2026 STUDENT SAFETY LAB <span class="announcement-slash">/</span> 100% ON-DEVICE AI <span class="announcement-slash">/</span> NO ACCOUNT REQUIRED</div>
+  <header class="navbar container">
+    <a href="#top" class="logo" aria-label="ProofBeforePay homepage"><span class="brand-icon" aria-hidden="true">P<span class="brand-dot">·</span></span><span>proof<span class="logo-accent">before</span>pay<span class="logo-period">.</span></span></a>
+    <nav aria-label="Main navigation"><a href="#workbench">Analyzer</a><a href="#method">How it works</a><a href="#transparency">Model card</a></nav>
+    <a class="nav-action" href="#workbench">Try the demo <span aria-hidden="true">↗</span></a>
+  </header>
+  <main id="top">
+    <section class="hero container">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="eyebrow-line"></span> THE SAFETY LAYER FOR STUDENT OPPORTUNITIES</div>
+        <h1>Good opportunities<br>deserve <em>good questions.</em></h1>
+        <p>Scholarship. Internship. Dream job. Before you send money, your ID, or a password, take 15 seconds to investigate the message—with an explainable AI running <strong>inside your browser.</strong></p>
+        <div class="hero-chips"><span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l8 4v6c0 5-3.5 8-8 10-4.5-2-8-5-8-10V6z"/><path d="m9 12 2 2 4-4"/></svg> Private by design</span><span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c6 5 6 13 0 18M12 3c-6 5-6 13 0 18"/></svg> English + 繁體中文</span><span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2-9 10h6l-1 10 13-12h-7l2-8z"/></svg> No paid API</span></div>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <div class="art-orbit orbit-one"></div><div class="art-orbit orbit-two"></div>
+        <div class="art-card card-top"><span class="art-card-icon">✳</span><span><small>UNEXPECTED REQUEST</small><b>Upfront deposit</b></span><span class="art-x">×</span></div>
+        <div class="art-shield"><svg viewBox="0 0 120 145"><path d="M60 7 106 27v39c0 32-18 54-46 70C32 120 14 98 14 66V27z"/><path d="m35 72 17 16 34-38"/></svg><span>PAUSE.<br>VERIFY.<br>PROCEED.</span></div>
+        <div class="art-card card-bottom"><span class="art-card-icon green">✓</span><span><small>SAFER NEXT STEP</small><b>Verify with your campus</b></span></div>
+        <div class="art-tiny tiny-one">01 / SIGNAL</div><div class="art-tiny tiny-two">03 / ACTION</div>
+      </div>
+    </section>
+    <section class="workbench-section" id="workbench">
+      <div class="container">
+        <div class="section-heading"><div><span class="section-tag">01 — THE WORKBENCH</span><h2>Run a second opinion.</h2></div><p>Real ML scoring, concrete evidence, and an action plan. Nothing is uploaded or saved.</p></div>
+        <div class="workbench-grid">
+          <div class="tool-card input-card">
+            <div class="panel-heading"><div class="panel-number">INPUT / 01</div><span class="panel-status"><span class="tiny-indicator"></span> LOCAL ONLY</span></div>
+            <h3>Paste the opportunity.</h3>
+            <p class="card-subtitle">A message, email, job listing, or scholarship invitation. English and Traditional Chinese supported.</p>
+            <label for="message" class="input-label">MESSAGE TO INVESTIGATE</label>
+            <textarea id="message" spellcheck="false" maxlength="5000" placeholder="Paste the message here... or select an example below."></textarea>
+            <div class="textbox-footer"><span>Text never leaves this device.</span><span id="char-count">0 / 5000</span></div>
+            <div class="sample-header"><span>TRY A REALISTIC EXAMPLE</span><span class="sample-arrow">↓</span></div>
+            <div class="sample-buttons" id="sample-buttons">
+              <button type="button" class="sample active" data-example="scholarship">🎓 Scholarship scam</button>
+              <button type="button" class="sample" data-example="job">💼 Internship scam</button>
+              <button type="button" class="sample" data-example="safe">✓ Legitimate notice</button>
+              <button type="button" class="sample" data-example="zh">中 獎學金詐騙</button>
+            </div>
+            <button id="analyze" class="primary-button" disabled>Analyze with on-device AI <span class="button-arrow" aria-hidden="true">↗</span></button>
+            <div class="privacy-note"><span class="privacy-lock">♙</span><span>Privacy promise: no login, no tracking, no server inference. The model file runs locally in your browser after loading.</span></div>
+          </div>
+          <div class="tool-card results-card" aria-live="polite" aria-atomic="false">
+            <div class="panel-heading"><div class="panel-number">ANALYSIS / 02</div><span class="panel-status" id="model-status"><span class="tiny-indicator orange"></span> LOADING MODEL</span></div>
+            <div id="result-placeholder" class="placeholder-state"><div class="placeholder-logo">✳</div><h3>Ready when you are.</h3><p>Choose an example or paste a message, then run the local classifier to investigate.</p></div>
+            <div id="result-content" hidden>
+              <div class="result-intro"><div><div class="risk-kicker">MODEL RISK SIGNAL <span class="info-tip" title="This score is not a verified chance that a message is fraudulent.">ⓘ</span></div><div class="risk-title" id="risk-title">—</div><p class="risk-caption" id="risk-caption"></p></div><div class="risk-ring" id="risk-ring"><div class="ring-inner"><strong id="score">—</strong><small>/ 100</small></div></div></div>
+              <div class="result-separator"></div>
+              <div class="summary-line"><span class="summary-icon">↳</span><span id="risk-summary"></span></div>
+              <div class="result-section-head"><h4>Evidence worth checking</h4><span id="evidence-count">0 flags</span></div>
+              <div id="evidence-list" class="evidence-list"></div>
+              <div class="result-section-head action-head"><h4>Safer next steps</h4><span>HUMAN IN THE LOOP</span></div>
+              <ol id="action-list" class="action-list"></ol>
+              <div class="tool-actions"><button id="copy-report" class="secondary-button">↗ Copy redacted report draft</button><button id="what-if" class="text-button" title="Re-run the model without one flagged substring">Try a what-if →</button></div>
+              <div id="counterfactual" class="counterfactual" hidden></div>
+              <div class="caution">⚑ &nbsp;This tool does not verify senders or prove fraud. Never treat a low score as permission to share sensitive data. Review copied reports before sharing; masking is incomplete.</div>
+            </div>
+          </div>
+        </div>
+        <div class="feature-strip"><div><span class="feature-number">01</span><span>Flag the<br><strong>pressure tactics.</strong></span></div><div><span class="feature-number">02</span><span>Keep personal<br><strong>data private.</strong></span></div><div><span class="feature-number">03</span><span>Get a safe<br><strong>verification plan.</strong></span></div><div><span class="feature-number">04</span><span>Inspect the<br><strong>model limits.</strong></span></div></div>
+      </div>
+    </section>
+    <section id="method" class="method-section container"><div class="section-heading"><div><span class="section-tag">02 — NOT JUST A SCORE</span><h2>From uncertainty to agency.</h2></div><p>Fraud detection should help people make better decisions—not make those decisions for them.</p></div><div class="method-grid"><article class="method-card"><div class="method-mark">01 / DETECT</div><div class="method-symbol">⌁</div><h3>On-device intelligence.</h3><p>A bilingual character-level TF-IDF + logistic regression model scores messages entirely in your browser. No API key, paid model, or hidden backend.</p></article><article class="method-card"><div class="method-mark">02 / EXPLAIN</div><div class="method-symbol">◎</div><h3>Show observable signals.</h3><p>Separately defined language-aware rules surface exact phrases about deposits, verification codes, pressure, and secrecy. We never pretend these rules are model reasoning.</p></article><article class="method-card"><div class="method-mark">03 / EMPOWER</div><div class="method-symbol">↗</div><h3>Make the safer move.</h3><p>Action cards explain how to cross-check offers through independently found official contact details. Copy a report that masks common personal identifiers.</p></article></div></section>
+    <section id="transparency" class="transparency-section"><div class="container transparency-grid"><div><span class="section-tag light">03 — BUILT TO BE QUESTIONED</span><h2>Transparent by<br><em>default.</em></h2><p>Our classifier is a working AI prototype trained on original synthetic English and Traditional Chinese examples. Its test set is small and synthetic, so performance cannot be assumed in the wild.</p><div class="model-stats"><div><strong id="metric-acc">—</strong><span>synthetic holdout accuracy</span></div><div><strong id="metric-f1">—</strong><span>synthetic holdout F1</span></div><div><strong id="metric-size">—</strong><span>holdout messages</span></div></div><a href="./model/evaluation.json" target="_blank" rel="noopener noreferrer" class="transparent-link">Inspect machine-readable evaluation ↗</a></div><div class="disclosure"><span class="disclosure-title">MODEL DISCLOSURE / v1.0</span><dl><div><dt>Technique</dt><dd>Character n-gram TF-IDF + logistic regression</dd></div><div><dt>Languages</dt><dd>English / Traditional Chinese; mixed text experimental</dd></div><div><dt>Training data</dt><dd>Synthetic scenarios; no personal inbox messages</dd></div><div><dt>Evaluation</dt><dd>Group-disjoint held-out synthetic examples</dd></div><div><dt>Hosting</dt><dd>Static HTML / CSS / JavaScript</dd></div><div><dt>Limitations</dt><dd>False positives and false negatives; concept drift; no sender verification; no live URL lookup</dd></div></dl><p class="disclosure-foot">Built with AI assistance and documented as such. This is a decision-support prototype—not an automated fact checker.</p></div></div></section>
+    <section class="closing-section container"><div class="closing-accent">✳</div><span class="section-tag">ONE LAST THING</span><h2>If they need your money <em>before</em><br>you can verify the offer, <span>pause.</span></h2><a href="#workbench" class="closing-link">Investigate another message <span>↗</span></a></section>
+  </main>
+  <footer class="footer"><div class="container footer-content"><span class="footer-brand">proofbeforepay<span>.</span></span><span>Original educational prototype · SLAY HACKS 2026</span><span>Made for safer student decisions.</span></div></footer>
+</body>
+</html>
